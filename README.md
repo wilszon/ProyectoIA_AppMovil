@@ -1,1 +1,1 @@
-#🎓 Predicción de Abandono Universitario
+🎓 Predicción de Abandono Universitario
