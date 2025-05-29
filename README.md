@@ -90,7 +90,7 @@ Pantalla principal donde se ingresan los datos del estudiante y se realiza la pr
 
 ---
 
-ingresando los datos solicitados  y segun el entrenamiento nos predice si la persona va a Abandonar la carrera.
+Ingresando los datos solicitados  y según el entrenamiento nos predice si la persona va a Abandonar la carrera.
 
 ![Captura de pantalla de la app](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/predict2.jpeg)
 
