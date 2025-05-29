@@ -70,7 +70,13 @@ implementation("androidx.compose.ui:ui-text:1.5.0")
 
 Proceso de despliegue del backend
 
+
 ![Despliegue en Railway](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/Railway.png) 
+
+ Seleccionar enviroment.
+ 
+ ![Despliegue en Railway](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/railway1.jpeg) 
+
 
 El backend fue desplegado exitosamente en Railway y está disponible en:
 
