@@ -70,7 +70,8 @@ En este mismo repositorio dentro de la carpeta "Archivos Necesarios" se encuentr
 
 ![image](https://github.com/user-attachments/assets/d2632f19-b5f5-40c0-b791-5cdd8d7639ce)
 
-#Tratamiento de datos realizado en Google Colab
+
+# Tratamiento de datos realizado en Google Colab
 
 El archivo tambien esta en el repositorio con el nombre de "PreprocesamientoDesercionIA.ipynb"
 
