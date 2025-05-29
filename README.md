@@ -55,15 +55,28 @@ bash
 pip install -r requirements.txt
 
 
+
+#Dependencias de kotlin Utilizadas
+
+implementation("com.squareup.retrofit2:retrofit:2.9.0")
+
+implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
+implementation("androidx.compose.ui:ui-text:1.5.0")
+
 # Configuracion de Proyecto en RailWay
 
 ## 🌐 Despliegue
+
+Proceso de despliegue del backend
+
+![Despliegue en Railway](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/Railway.png) 
 
 El backend fue desplegado exitosamente en Railway y está disponible en:
 
 `https://web-production-7a7f2.up.railway.app`
 
-![Despliegue en Railway](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/capturas/proyecto_ia_railway.png)
+![Despliegue en Railway](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/proyecto_ia_railway.png) 
 
 
 
@@ -71,11 +84,24 @@ El backend fue desplegado exitosamente en Railway y está disponible en:
 
 Pantalla principal donde se ingresan los datos del estudiante y se realiza la predicción:
 
-![Captura de pantalla de la app](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/capturas/predict0.png)
+![Captura de pantalla de la app](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/predict0.jpeg)
 
 
 
 ---
+
+ingresando los datos solicitados  y segun el entrenamiento nos predice si la persona va a Abandonar la carrera.
+
+![Captura de pantalla de la app](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/predict2.jpeg)
+
+
+---
+ Tambien  predice si la persona va a continuar la carrera.
+
+![Captura de pantalla de la app](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/predict3.jpeg)
+
+
+
 
 ## 👨‍💻 Autores del Proyecto
 
