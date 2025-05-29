@@ -64,7 +64,7 @@ implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 
 implementation("androidx.compose.ui:ui-text:1.5.0")
 
-#Recursos necesarios para el correcto uso de la aplicación ✅
+# Recursos necesarios para el correcto uso de la aplicación ✅
 
 En este mismo repositorio dentro de la carpeta "Archivos Necesarios" se encuentra el requirements.txt, el modelo que usamos, el scaler y el codigo implementado en la API
 
