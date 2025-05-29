@@ -85,6 +85,12 @@ El backend fue desplegado exitosamente en Railway y está disponible en:
 ![Despliegue en Railway](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/Capturas/proyecto_ia_railway.png) 
 
 
+Evidencia de las peticiones que se han realizado al servidor
+
+![image](https://github.com/user-attachments/assets/d776c164-d9de-4516-bec7-1b6e9146a555)
+
+
+
 
 ## 📱 Capturas de la Aplicación
 
