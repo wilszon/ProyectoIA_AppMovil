@@ -57,8 +57,31 @@ pip install -r requirements.txt
 
 # Configuracion de Proyecto en RailWay
 
+## 🌐 Despliegue
+
+El backend fue desplegado exitosamente en Railway y está disponible en:
+
+`https://web-production-7a7f2.up.railway.app`
+
+![Despliegue en Railway](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/capturas/proyecto_ia_railway.png)
 
 
+
+## 📱 Capturas de la Aplicación
+
+Pantalla principal donde se ingresan los datos del estudiante y se realiza la predicción:
+
+![Captura de pantalla de la app](https://github.com/amgito1648/clase-inteligencia-artificial/raw/main/capturas/predict0.png)
+
+
+
+---
+
+## 👨‍💻 Autores del Proyecto
+
+- **Wilson Suarez**
+- **Mateo Sandoval**
+- **Cristian Cala**
 
 
 
