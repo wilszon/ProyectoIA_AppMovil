@@ -73,7 +73,7 @@ En este mismo repositorio dentro de la carpeta "Archivos Necesarios" se encuentr
 
 # Tratamiento de datos realizado en Google Colab
 
-El archivo tambien esta en el repositorio con el nombre de "PreprocesamientoDesercionIA.ipynb"
+El archivo tambien esta en el repositorio con el nombre de "PreprocesamientoDesercionIA.ipynb". En este podran encontrar el proceso detallado de como se limpiaron los datos y la elección de nuestro modelo.
 
 ![image](https://github.com/user-attachments/assets/4f90981d-0ca7-46e1-99a4-083e5ceaef08)
 
