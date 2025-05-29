@@ -64,6 +64,20 @@ implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 
 implementation("androidx.compose.ui:ui-text:1.5.0")
 
+#Recursos necesarios para el correcto uso de la aplicación ✅
+
+En este mismo repositorio dentro de la carpeta "Archivos Necesarios" se encuentra el requirements.txt, el modelo que usamos, el scaler y el codigo implementado en la API
+
+![image](https://github.com/user-attachments/assets/d2632f19-b5f5-40c0-b791-5cdd8d7639ce)
+
+#Tratamiento de datos realizado en Google Colab
+
+El archivo tambien esta en el repositorio con el nombre de "PreprocesamientoDesercionIA.ipynb"
+
+![image](https://github.com/user-attachments/assets/4f90981d-0ca7-46e1-99a4-083e5ceaef08)
+
+
+
 # Configuracion de Proyecto en RailWay
 
 ## 🌐 Despliegue
